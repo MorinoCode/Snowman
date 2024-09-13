@@ -1,0 +1,93 @@
+body {
+  background-color: #6ca2c4;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.leftEye {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  border-radius: 50%;
+  position: relative;
+  top: 200px;
+  left: 900px;
+}
+.rightEye {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  border-radius: 50%;
+  position: relative;
+  top: 181px;
+  left: 950px;
+}
+.nose {
+  width: 20px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 50%;
+  position: relative;
+  top: 200px;
+  left: 925px;
+}
+.head {
+  width: 150px;
+  height: 150px;
+  color: white;
+  border-radius: 50%;
+  background-color: white;
+  position: relative;
+  top: 100px;
+  left: 860px;
+  z-index: -1;
+}
+.button1 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+  position: relative;
+  top: 180px;
+  left: 925px;
+}
+.button2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+  position: relative;
+  top: 200px;
+  left: 925px;
+}
+.button3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+  position: relative;
+  top: 220px;
+  left: 925px;
+}
+.body {
+  width: 350px;
+  height: 350px;
+  color: white;
+  border-radius: 50%;
+  background-color: white;
+  position: relative;
+  top: px;
+  left: 760px;
+  z-index: -1;
+}
+.mountain {
+  width: 1000px;
+  height: 1000px;
+  background-color: brown;
+  border-radius: 50%;
+  position: relative;
+  top: -50px;
+  left: 450px;
+  z-index: -2;
+}
